@@ -1,4 +1,4 @@
-# Demand Forecasting Project
+# Demand Forecasting
 
 ## Overview
 This folder explores various approaches to demand forecasting by leveraging time series data. It focuses on preprocessing sales data, building multiple forecasting models, evaluating their performance, and visualizing the results.
