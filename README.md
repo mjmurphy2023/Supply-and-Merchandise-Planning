@@ -13,7 +13,7 @@ This project serves as a valuable resource for understanding supply chain dynami
 ---
 
 ## Project Structure
-The project is organized into the following main folders, each focusing on a specific aspect of the supply and merchandise planning process:
+The project ongoing and is organized into the following main folders, each focusing on a specific aspect of the supply and merchandise planning process:
 
 ### 1. Synthetic Data Creation
 **Folder:** `1. Synthetic Data Creation`
