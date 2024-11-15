@@ -103,7 +103,7 @@ This project is ongoing, and there are exciting additions planned for the future
 
   - Develop production schedules in Excel based on demand forecasts.
   - Visualize schedules using Gantt charts.
-  - Optimize schedules using Python (Linear Programming with PuLP or SciPy).
+  - Optimize schedules using Python (Linear Programming).
 
 ### Material Requirements Planning (MRP)
   - Implement MRP logic in Python:
