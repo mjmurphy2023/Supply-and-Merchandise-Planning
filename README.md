@@ -1,4 +1,4 @@
-# Supply-and-Merchandise-Planning
+# Supply and Merchandise Planning
 
 ## Introduction
 Effective supply and merchandise planning is crucial for retail businesses to meet customer demand, optimize inventory levels, and maximize profitability. This project simulates a comprehensive planning process for a hiking and equipment retailer by:
